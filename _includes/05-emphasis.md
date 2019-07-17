@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Doing tag things
+- _This is italic_
+- __This is bold__
+- _This is __both__ right here_
